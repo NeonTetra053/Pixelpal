@@ -1,0 +1,29 @@
+{
+    "pet": {
+        "affection": 1,
+        "current_hat": 5,
+        "energy": 64.0,
+        "happiness": 44.0,
+        "hunger": 14.0,
+        "hygiene": 94.0,
+        "type": "Dog"
+    },
+    "player": {
+        "coins": 15,
+        "inventory": {
+            "beef": 0,
+            "bone": 0,
+            "broccoli": 0,
+            "cat_dry_food": 0,
+            "cat_tin_food": 0,
+            "catnip": 0,
+            "cookie": 0,
+            "dog_tin_food": 0,
+            "egg": 0,
+            "fish": 0,
+            "milk": 0,
+            "turkey_leg": 0
+        },
+        "minigame_highscore": 0
+    }
+}

@@ -1,0 +1,32 @@
+﻿  tamagotchi.cpp
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(102,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(105,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(108,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(111,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(274,37): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(275,37): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(276,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(277,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(278,36): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(279,36): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(280,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(281,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(282,38): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(283,38): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(284,37): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(285,37): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(351,37): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(352,37): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(353,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(354,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(355,36): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(356,36): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(357,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(358,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(359,38): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\Tamagotchi.hpp(360,38): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\minigame.h(155,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\minigame.h(156,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\minigame.h(246,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\tamagotchi\minigame.h(247,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  tamagotchi.vcxproj -> C:\Users\mikol\OneDrive\Pulpit\Pixelpal\Pixelpal\x64\Debug\tamagotchi.exe
